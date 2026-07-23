@@ -1,9 +1,9 @@
 # Projectos-em-Excel
 Este repositório reúne os projetos que desenvolvi durante minha capacitação em Excel, aprofundei meus conhecimentos em funcionalidades de Excel Avançado, incluindo: 
-    *- Gráficos
-    * Tabelas Dinâmicas
-    * Criação de Dashboards Interactivos
-    * Fórmulas Avançadas
+* Gráficos \
+    * Tabelas Dinâmicas \
+    * Criação de Dashboards Interactivos \
+    * Fórmulas Avançadas \
     * Automatização com Macros
 
 # Projecto 01 - Dashboard de Transporte e Logística
